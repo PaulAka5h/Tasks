@@ -4,10 +4,10 @@
 
 int main()
 {
-    char buffer[1000];
+    char name;
 
     printf("Enter your name: ");
-    scanf("%c", &buffer);
+    scanf("%c", &name);
 
-    printf("Returning your name: %c", buffer);
+    printf("Returning your name: %c", name);
 }
