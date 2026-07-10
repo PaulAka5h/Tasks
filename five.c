@@ -10,4 +10,9 @@ int main()
     scanf("%c", &name);
 
     printf("Returning your name: %c", name);
+
+
+         // eda partesina bhai dekhay diyen!!
+
+    
 }
